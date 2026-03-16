@@ -11,7 +11,7 @@ The privacy-first data marketplace where consumers earn for their data and enter
 [![Website](https://img.shields.io/badge/Website-privlabs.io-8B5CF6?style=flat-square)](https://privlabs.io)
 [![Docs](https://img.shields.io/badge/Docs-docs.privlabs.io-8B5CF6?style=flat-square)](https://docs.privlabs.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@privlabsio-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/privlabsio)
-[![Discord](https://img.shields.io/badge/Discord-privlabs-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/privlabs)
+
 
 ---
 
@@ -83,7 +83,7 @@ Contributors                         Enterprises
 | Learning Portal | [learning.privlabs.io](https://learning.privlabs.io) |
 | App | [app.privlabs.io](https://app.privlabs.io) |
 | Twitter/X | [@privlabsio](https://x.com/privlabsio) |
-| Discord | [discord.gg/privlabs](https://discord.gg/privlabs) |
+
 | Contact | [hello@privlabs.io](mailto:hello@privlabs.io) |
 
 ---
